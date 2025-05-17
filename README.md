@@ -1,5 +1,7 @@
 # Sistema de Gestión de Evaluaciones
 
+# Miembros del Grupo 4: [ADRIANA BETANCOURTH, LISSETTE DANIELA MERO, WILLIAM VELEZ BARRE]
+
 ## Descripción del Proyecto
 
 Este sistema modela diferentes tipos de evaluaciones académicas (Examen, Trabajo, Presentacion) utilizando los principios de la Programación Orientada a Objetos (POO) en Python.  Se define una clase base abstracta `Evaluacion` con atributos comunes y un método abstracto `calcular_nota()`. Las subclases `Examen`, `Trabajo`, y `Presentacion` (implementadas aquí Examen y Trabajo)  heredan de `Evaluacion` y proporcionan sus propias implementaciones del método `calcular_nota()` para calcular las notas de las evaluaciones específicas. [cite: 1, 2, 3, 4, 5]
