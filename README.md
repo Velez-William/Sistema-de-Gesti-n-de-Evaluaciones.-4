@@ -21,7 +21,8 @@ Este sistema modela diferentes tipos de evaluaciones académicas (Examen, Trabaj
     * Métodos: `__init__()`, `calcular_nota()` (abstracto), getters y setters (como propiedades).
     * Propósito: Define la estructura común para todas las evaluaciones. No se puede instanciar directamente.
  
-      ![image](https://github.com/user-attachments/assets/a07c466d-7e31-47c7-a95c-3fb2deb94b15)
+      ![image](https://github.com/user-attachments/assets/53d7fdb8-fb02-4d30-888b-193cfd40a43d)
+
 
 
 * **Examen (subclase de Evaluacion):**
